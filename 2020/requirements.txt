@@ -1,0 +1,10 @@
+numpy
+pandas
+scipy
+seaborn
+matplotlib
+requests
+tqdm
+gym
+torch
+recsim
